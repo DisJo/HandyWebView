@@ -6,10 +6,7 @@ import android.webkit.WebResourceRequest;
 import android.webkit.WebView;
 
 /**
- * @className: WebViewStateListener
- * @classDescription: 较便利的webview监听接口
- * @author: Dis Jo
- * @createTime: 15/12/29
+ * Created by Dis on 15/12/29
  */
 public interface WebViewStateListener {
 

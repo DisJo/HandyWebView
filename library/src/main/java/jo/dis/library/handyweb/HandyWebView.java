@@ -18,10 +18,7 @@ import java.util.List;
 
 
 /**
- * @className: HandyWebView
- * @classDescription: 较便利的webview
- * @author: Dis Jo
- * @createTime: 15/12/29
+ * Created by Dis on 15/12/29
  */
 public class HandyWebView extends WebView {
 
