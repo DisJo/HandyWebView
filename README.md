@@ -1,4 +1,4 @@
-DataCache
+HandyWebView
 ---------
 
 A handy webview for Android.
